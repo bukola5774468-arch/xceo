@@ -17,7 +17,7 @@ function demo() {
   font-size: 21px;
   font-weight: 700;
    transition: opacity 0.3s ease 0s;
-}
+
   `;
 
   document.body.append(demoBlock);
